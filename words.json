@@ -1,0 +1,2739 @@
+[
+  {
+    "word": "account",
+    "meaning": "账户；账号",
+    "example": "Please review the account carefully.",
+    "id": 1,
+    "day": 1
+  },
+  {
+    "word": "acquire",
+    "meaning": "获得；购得",
+    "example": "Please review the acquire carefully.",
+    "id": 2,
+    "day": 2
+  },
+  {
+    "word": "agenda",
+    "meaning": "议程",
+    "example": "Please review the agenda carefully.",
+    "id": 3,
+    "day": 3
+  },
+  {
+    "word": "annual",
+    "meaning": "每年的",
+    "example": "Please review the annual carefully.",
+    "id": 4,
+    "day": 4
+  },
+  {
+    "word": "applicant",
+    "meaning": "申请人",
+    "example": "Please review the applicant carefully.",
+    "id": 5,
+    "day": 5
+  },
+  {
+    "word": "appointment",
+    "meaning": "预约",
+    "example": "Please review the appointment carefully.",
+    "id": 6,
+    "day": 6
+  },
+  {
+    "word": "approve",
+    "meaning": "批准",
+    "example": "Please review the approve carefully.",
+    "id": 7,
+    "day": 7
+  },
+  {
+    "word": "arrange",
+    "meaning": "安排",
+    "example": "Please review the arrange carefully.",
+    "id": 8,
+    "day": 8
+  },
+  {
+    "word": "attend",
+    "meaning": "出席",
+    "example": "Please review the attend carefully.",
+    "id": 9,
+    "day": 9
+  },
+  {
+    "word": "available",
+    "meaning": "可获得的；有空的",
+    "example": "Please review the available carefully.",
+    "id": 10,
+    "day": 10
+  },
+  {
+    "word": "benefit",
+    "meaning": "福利；益处",
+    "example": "Please review the benefit carefully.",
+    "id": 11,
+    "day": 11
+  },
+  {
+    "word": "budget",
+    "meaning": "预算",
+    "example": "Please review the budget carefully.",
+    "id": 12,
+    "day": 12
+  },
+  {
+    "word": "candidate",
+    "meaning": "候选人",
+    "example": "Please review the candidate carefully.",
+    "id": 13,
+    "day": 13
+  },
+  {
+    "word": "confirm",
+    "meaning": "确认",
+    "example": "Please review the confirm carefully.",
+    "id": 14,
+    "day": 14
+  },
+  {
+    "word": "deadline",
+    "meaning": "截止日期",
+    "example": "Please review the deadline carefully.",
+    "id": 15,
+    "day": 15
+  },
+  {
+    "word": "department",
+    "meaning": "部门",
+    "example": "Please review the department carefully.",
+    "id": 16,
+    "day": 16
+  },
+  {
+    "word": "employee",
+    "meaning": "员工",
+    "example": "Please review the employee carefully.",
+    "id": 17,
+    "day": 17
+  },
+  {
+    "word": "equipment",
+    "meaning": "设备",
+    "example": "Please review the equipment carefully.",
+    "id": 18,
+    "day": 18
+  },
+  {
+    "word": "expense",
+    "meaning": "费用",
+    "example": "Please review the expense carefully.",
+    "id": 19,
+    "day": 19
+  },
+  {
+    "word": "facility",
+    "meaning": "设施",
+    "example": "Please review the facility carefully.",
+    "id": 20,
+    "day": 20
+  },
+  {
+    "word": "forecast",
+    "meaning": "预测",
+    "example": "Please review the forecast carefully.",
+    "id": 21,
+    "day": 21
+  },
+  {
+    "word": "frequently",
+    "meaning": "频繁地",
+    "example": "Please review the frequently carefully.",
+    "id": 22,
+    "day": 22
+  },
+  {
+    "word": "hire",
+    "meaning": "雇用",
+    "example": "Please review the hire carefully.",
+    "id": 23,
+    "day": 23
+  },
+  {
+    "word": "invoice",
+    "meaning": "发票",
+    "example": "Please review the invoice carefully.",
+    "id": 24,
+    "day": 24
+  },
+  {
+    "word": "maintain",
+    "meaning": "维护",
+    "example": "Please review the maintain carefully.",
+    "id": 25,
+    "day": 25
+  },
+  {
+    "word": "manage",
+    "meaning": "管理",
+    "example": "Please review the manage carefully.",
+    "id": 26,
+    "day": 26
+  },
+  {
+    "word": "negotiate",
+    "meaning": "谈判",
+    "example": "Please review the negotiate carefully.",
+    "id": 27,
+    "day": 27
+  },
+  {
+    "word": "notice",
+    "meaning": "通知",
+    "example": "Please review the notice carefully.",
+    "id": 28,
+    "day": 28
+  },
+  {
+    "word": "offer",
+    "meaning": "提供；提议",
+    "example": "Please review the offer carefully.",
+    "id": 29,
+    "day": 29
+  },
+  {
+    "word": "policy",
+    "meaning": "政策；规定",
+    "example": "Please review the policy carefully.",
+    "id": 30,
+    "day": 30
+  },
+  {
+    "word": "procedure",
+    "meaning": "程序",
+    "example": "Please review the procedure carefully.",
+    "id": 31,
+    "day": 31
+  },
+  {
+    "word": "purchase",
+    "meaning": "购买",
+    "example": "Please review the purchase carefully.",
+    "id": 32,
+    "day": 32
+  },
+  {
+    "word": "refund",
+    "meaning": "退款",
+    "example": "Please review the refund carefully.",
+    "id": 33,
+    "day": 33
+  },
+  {
+    "word": "schedule",
+    "meaning": "日程；安排",
+    "example": "Please review the schedule carefully.",
+    "id": 34,
+    "day": 34
+  },
+  {
+    "word": "shipment",
+    "meaning": "货物；运输",
+    "example": "Please review the shipment carefully.",
+    "id": 35,
+    "day": 35
+  },
+  {
+    "word": "supplier",
+    "meaning": "供应商",
+    "example": "Please review the supplier carefully.",
+    "id": 36,
+    "day": 36
+  },
+  {
+    "word": "vacancy",
+    "meaning": "空缺职位",
+    "example": "Please review the vacancy carefully.",
+    "id": 37,
+    "day": 37
+  },
+  {
+    "word": "warehouse",
+    "meaning": "仓库",
+    "example": "Please review the warehouse carefully.",
+    "id": 38,
+    "day": 38
+  },
+  {
+    "word": "advertise",
+    "meaning": "做广告",
+    "example": "Please review the advertise carefully.",
+    "id": 39,
+    "day": 39
+  },
+  {
+    "word": "branch",
+    "meaning": "分店；分支",
+    "example": "Please review the branch carefully.",
+    "id": 40,
+    "day": 40
+  },
+  {
+    "word": "complaint",
+    "meaning": "投诉",
+    "example": "Please review the complaint carefully.",
+    "id": 41,
+    "day": 41
+  },
+  {
+    "word": "customer",
+    "meaning": "顾客",
+    "example": "Please review the customer carefully.",
+    "id": 42,
+    "day": 42
+  },
+  {
+    "word": "delivery",
+    "meaning": "交付",
+    "example": "Please review the delivery carefully.",
+    "id": 43,
+    "day": 43
+  },
+  {
+    "word": "discount",
+    "meaning": "折扣",
+    "example": "Please review the discount carefully.",
+    "id": 44,
+    "day": 44
+  },
+  {
+    "word": "efficient",
+    "meaning": "高效的",
+    "example": "Please review the efficient carefully.",
+    "id": 45,
+    "day": 45
+  },
+  {
+    "word": "estimate",
+    "meaning": "估计",
+    "example": "Please review the estimate carefully.",
+    "id": 46,
+    "day": 46
+  },
+  {
+    "word": "extension",
+    "meaning": "延期；扩展",
+    "example": "Please review the extension carefully.",
+    "id": 47,
+    "day": 47
+  },
+  {
+    "word": "feature",
+    "meaning": "特点",
+    "example": "Please review the feature carefully.",
+    "id": 48,
+    "day": 48
+  },
+  {
+    "word": "guarantee",
+    "meaning": "保证",
+    "example": "Please review the guarantee carefully.",
+    "id": 49,
+    "day": 49
+  },
+  {
+    "word": "install",
+    "meaning": "安装",
+    "example": "Please review the install carefully.",
+    "id": 50,
+    "day": 50
+  },
+  {
+    "word": "merchandise",
+    "meaning": "商品",
+    "example": "Please review the merchandise carefully.",
+    "id": 51,
+    "day": 51
+  },
+  {
+    "word": "permission",
+    "meaning": "许可",
+    "example": "Please review the permission carefully.",
+    "id": 52,
+    "day": 52
+  },
+  {
+    "word": "recommend",
+    "meaning": "推荐",
+    "example": "Please review the recommend carefully.",
+    "id": 53,
+    "day": 53
+  },
+  {
+    "word": "reservation",
+    "meaning": "预订",
+    "example": "Please review the reservation carefully.",
+    "id": 54,
+    "day": 54
+  },
+  {
+    "word": "replacement",
+    "meaning": "替代品",
+    "example": "Please review the replacement carefully.",
+    "id": 55,
+    "day": 55
+  },
+  {
+    "word": "request",
+    "meaning": "请求",
+    "example": "Please review the request carefully.",
+    "id": 56,
+    "day": 56
+  },
+  {
+    "word": "require",
+    "meaning": "要求",
+    "example": "Please review the require carefully.",
+    "id": 57,
+    "day": 57
+  },
+  {
+    "word": "responsible",
+    "meaning": "负责的",
+    "example": "Please review the responsible carefully.",
+    "id": 58,
+    "day": 58
+  },
+  {
+    "word": "revenue",
+    "meaning": "收入",
+    "example": "Please review the revenue carefully.",
+    "id": 59,
+    "day": 59
+  },
+  {
+    "word": "strategy",
+    "meaning": "策略",
+    "example": "Please review the strategy carefully.",
+    "id": 60,
+    "day": 60
+  },
+  {
+    "word": "survey",
+    "meaning": "调查",
+    "example": "Please review the survey carefully.",
+    "id": 61,
+    "day": 61
+  },
+  {
+    "word": "training",
+    "meaning": "培训",
+    "example": "Please review the training carefully.",
+    "id": 62,
+    "day": 62
+  },
+  {
+    "word": "transfer",
+    "meaning": "转移；调动",
+    "example": "Please review the transfer carefully.",
+    "id": 63,
+    "day": 63
+  },
+  {
+    "word": "urgent",
+    "meaning": "紧急的",
+    "example": "Please review the urgent carefully.",
+    "id": 64,
+    "day": 64
+  },
+  {
+    "word": "verify",
+    "meaning": "核实",
+    "example": "Please review the verify carefully.",
+    "id": 65,
+    "day": 65
+  },
+  {
+    "word": "conference",
+    "meaning": "会议",
+    "example": "Please review the conference carefully.",
+    "id": 66,
+    "day": 66
+  },
+  {
+    "word": "contract",
+    "meaning": "合同",
+    "example": "Please review the contract carefully.",
+    "id": 67,
+    "day": 67
+  },
+  {
+    "word": "corporate",
+    "meaning": "公司的",
+    "example": "Please review the corporate carefully.",
+    "id": 68,
+    "day": 68
+  },
+  {
+    "word": "director",
+    "meaning": "主管；董事",
+    "example": "Please review the director carefully.",
+    "id": 69,
+    "day": 69
+  },
+  {
+    "word": "expand",
+    "meaning": "扩大",
+    "example": "Please review the expand carefully.",
+    "id": 70,
+    "day": 70
+  },
+  {
+    "word": "investment",
+    "meaning": "投资",
+    "example": "Please review the investment carefully.",
+    "id": 71,
+    "day": 71
+  },
+  {
+    "word": "location",
+    "meaning": "地点",
+    "example": "Please review the location carefully.",
+    "id": 72,
+    "day": 72
+  },
+  {
+    "word": "promotion",
+    "meaning": "晋升；促销",
+    "example": "Please review the promotion carefully.",
+    "id": 73,
+    "day": 73
+  },
+  {
+    "word": "quarter",
+    "meaning": "季度",
+    "example": "Please review the quarter carefully.",
+    "id": 74,
+    "day": 74
+  },
+  {
+    "word": "recruit",
+    "meaning": "招聘",
+    "example": "Please review the recruit carefully.",
+    "id": 75,
+    "day": 75
+  },
+  {
+    "word": "renovate",
+    "meaning": "翻新",
+    "example": "Please review the renovate carefully.",
+    "id": 76,
+    "day": 76
+  },
+  {
+    "word": "retail",
+    "meaning": "零售",
+    "example": "Please review the retail carefully.",
+    "id": 77,
+    "day": 77
+  },
+  {
+    "word": "significant",
+    "meaning": "重要的；显著的",
+    "example": "Please review the significant carefully.",
+    "id": 78,
+    "day": 78
+  },
+  {
+    "word": "subscription",
+    "meaning": "订阅",
+    "example": "Please review the subscription carefully.",
+    "id": 79,
+    "day": 79
+  },
+  {
+    "word": "technical",
+    "meaning": "技术的",
+    "example": "Please review the technical carefully.",
+    "id": 80,
+    "day": 80
+  },
+  {
+    "word": "update",
+    "meaning": "更新",
+    "example": "Please review the update carefully.",
+    "id": 81,
+    "day": 81
+  },
+  {
+    "word": "client",
+    "meaning": "客户",
+    "example": "Please review the client carefully.",
+    "id": 82,
+    "day": 82
+  },
+  {
+    "word": "consent",
+    "meaning": "同意",
+    "example": "Please review the consent carefully.",
+    "id": 83,
+    "day": 83
+  },
+  {
+    "word": "consumption",
+    "meaning": "消费",
+    "example": "Please review the consumption carefully.",
+    "id": 84,
+    "day": 84
+  },
+  {
+    "word": "convenient",
+    "meaning": "方便的",
+    "example": "Please review the convenient carefully.",
+    "id": 85,
+    "day": 85
+  },
+  {
+    "word": "delay",
+    "meaning": "延误",
+    "example": "Please review the delay carefully.",
+    "id": 86,
+    "day": 86
+  },
+  {
+    "word": "destination",
+    "meaning": "目的地",
+    "example": "Please review the destination carefully.",
+    "id": 87,
+    "day": 87
+  },
+  {
+    "word": "distribute",
+    "meaning": "分发",
+    "example": "Please review the distribute carefully.",
+    "id": 88,
+    "day": 88
+  },
+  {
+    "word": "document",
+    "meaning": "文件",
+    "example": "Please review the document carefully.",
+    "id": 89,
+    "day": 89
+  },
+  {
+    "word": "eligible",
+    "meaning": "符合资格的",
+    "example": "Please review the eligible carefully.",
+    "id": 90,
+    "day": 90
+  },
+  {
+    "word": "exhibition",
+    "meaning": "展览",
+    "example": "Please review the exhibition carefully.",
+    "id": 91,
+    "day": 1
+  },
+  {
+    "word": "feedback",
+    "meaning": "反馈",
+    "example": "Please review the feedback carefully.",
+    "id": 92,
+    "day": 2
+  },
+  {
+    "word": "flexible",
+    "meaning": "灵活的",
+    "example": "Please review the flexible carefully.",
+    "id": 93,
+    "day": 3
+  },
+  {
+    "word": "inspection",
+    "meaning": "检查",
+    "example": "Please review the inspection carefully.",
+    "id": 94,
+    "day": 4
+  },
+  {
+    "word": "instruction",
+    "meaning": "指示",
+    "example": "Please review the instruction carefully.",
+    "id": 95,
+    "day": 5
+  },
+  {
+    "word": "inventory",
+    "meaning": "库存",
+    "example": "Please review the inventory carefully.",
+    "id": 96,
+    "day": 6
+  },
+  {
+    "word": "membership",
+    "meaning": "会员资格",
+    "example": "Please review the membership carefully.",
+    "id": 97,
+    "day": 7
+  },
+  {
+    "word": "operate",
+    "meaning": "操作；经营",
+    "example": "Please review the operate carefully.",
+    "id": 98,
+    "day": 8
+  },
+  {
+    "word": "participant",
+    "meaning": "参与者",
+    "example": "Please review the participant carefully.",
+    "id": 99,
+    "day": 9
+  },
+  {
+    "word": "productive",
+    "meaning": "高产的",
+    "example": "Please review the productive carefully.",
+    "id": 100,
+    "day": 10
+  },
+  {
+    "word": "receipt",
+    "meaning": "收据",
+    "example": "Please review the receipt carefully.",
+    "id": 101,
+    "day": 11
+  },
+  {
+    "word": "registration",
+    "meaning": "注册",
+    "example": "Please review the registration carefully.",
+    "id": 102,
+    "day": 12
+  },
+  {
+    "word": "renovation",
+    "meaning": "翻新",
+    "example": "Please review the renovation carefully.",
+    "id": 103,
+    "day": 13
+  },
+  {
+    "word": "staffing",
+    "meaning": "人员配置",
+    "example": "Please review the staffing carefully.",
+    "id": 104,
+    "day": 14
+  },
+  {
+    "id": 105,
+    "word": "accommodate",
+    "meaning": "容纳；适应",
+    "example": "The company will accommodate as needed.",
+    "day": 15
+  },
+  {
+    "id": 106,
+    "word": "accurate",
+    "meaning": "准确的",
+    "example": "The company will accurate as needed.",
+    "day": 16
+  },
+  {
+    "id": 107,
+    "word": "adjacent",
+    "meaning": "相邻的",
+    "example": "The company will adjacent as needed.",
+    "day": 17
+  },
+  {
+    "id": 108,
+    "word": "adjust",
+    "meaning": "调整",
+    "example": "The company will adjust as needed.",
+    "day": 18
+  },
+  {
+    "id": 109,
+    "word": "admit",
+    "meaning": "承认；准许进入",
+    "example": "The company will admit as needed.",
+    "day": 19
+  },
+  {
+    "id": 110,
+    "word": "adopt",
+    "meaning": "采用",
+    "example": "The company will adopt as needed.",
+    "day": 20
+  },
+  {
+    "id": 111,
+    "word": "allocate",
+    "meaning": "分配",
+    "example": "The company will allocate as needed.",
+    "day": 21
+  },
+  {
+    "id": 112,
+    "word": "alternative",
+    "meaning": "替代方案",
+    "example": "The company will alternative as needed.",
+    "day": 22
+  },
+  {
+    "id": 113,
+    "word": "anticipate",
+    "meaning": "预期",
+    "example": "The company will anticipate as needed.",
+    "day": 23
+  },
+  {
+    "id": 114,
+    "word": "appeal",
+    "meaning": "吸引；呼吁",
+    "example": "The company will appeal as needed.",
+    "day": 24
+  },
+  {
+    "id": 115,
+    "word": "applicable",
+    "meaning": "适用的",
+    "example": "The company will applicable as needed.",
+    "day": 25
+  },
+  {
+    "id": 116,
+    "word": "authorize",
+    "meaning": "授权",
+    "example": "The company will authorize as needed.",
+    "day": 26
+  },
+  {
+    "id": 117,
+    "word": "automate",
+    "meaning": "自动化",
+    "example": "The company will automate as needed.",
+    "day": 27
+  },
+  {
+    "id": 118,
+    "word": "availability",
+    "meaning": "可用性",
+    "example": "The company will availability as needed.",
+    "day": 28
+  },
+  {
+    "id": 119,
+    "word": "beverage",
+    "meaning": "饮料",
+    "example": "The company will beverage as needed.",
+    "day": 29
+  },
+  {
+    "id": 120,
+    "word": "brochure",
+    "meaning": "宣传册",
+    "example": "The company will brochure as needed.",
+    "day": 30
+  },
+  {
+    "id": 121,
+    "word": "capacity",
+    "meaning": "容量；能力",
+    "example": "The company will capacity as needed.",
+    "day": 31
+  },
+  {
+    "id": 122,
+    "word": "cargo",
+    "meaning": "货物",
+    "example": "The company will cargo as needed.",
+    "day": 32
+  },
+  {
+    "id": 123,
+    "word": "collaborate",
+    "meaning": "合作",
+    "example": "The company will collaborate as needed.",
+    "day": 33
+  },
+  {
+    "id": 124,
+    "word": "commute",
+    "meaning": "通勤",
+    "example": "The company will commute as needed.",
+    "day": 34
+  },
+  {
+    "id": 125,
+    "word": "compensate",
+    "meaning": "补偿",
+    "example": "The company will compensate as needed.",
+    "day": 35
+  },
+  {
+    "id": 126,
+    "word": "competitive",
+    "meaning": "有竞争力的",
+    "example": "The company will competitive as needed.",
+    "day": 36
+  },
+  {
+    "id": 127,
+    "word": "compile",
+    "meaning": "汇编",
+    "example": "The company will compile as needed.",
+    "day": 37
+  },
+  {
+    "id": 128,
+    "word": "comply",
+    "meaning": "遵守",
+    "example": "The company will comply as needed.",
+    "day": 38
+  },
+  {
+    "id": 129,
+    "word": "comprehensive",
+    "meaning": "全面的",
+    "example": "The company will comprehensive as needed.",
+    "day": 39
+  },
+  {
+    "id": 130,
+    "word": "consecutive",
+    "meaning": "连续的",
+    "example": "The company will consecutive as needed.",
+    "day": 40
+  },
+  {
+    "id": 131,
+    "word": "contribute",
+    "meaning": "贡献",
+    "example": "The company will contribute as needed.",
+    "day": 41
+  },
+  {
+    "id": 132,
+    "word": "convenience",
+    "meaning": "便利",
+    "example": "The company will convenience as needed.",
+    "day": 42
+  },
+  {
+    "id": 133,
+    "word": "coordinate",
+    "meaning": "协调",
+    "example": "The company will coordinate as needed.",
+    "day": 43
+  },
+  {
+    "id": 134,
+    "word": "credential",
+    "meaning": "资历；凭证",
+    "example": "The company will credential as needed.",
+    "day": 44
+  },
+  {
+    "id": 135,
+    "word": "deduct",
+    "meaning": "扣除",
+    "example": "The company will deduct as needed.",
+    "day": 45
+  },
+  {
+    "id": 136,
+    "word": "demonstrate",
+    "meaning": "展示；证明",
+    "example": "The company will demonstrate as needed.",
+    "day": 46
+  },
+  {
+    "id": 137,
+    "word": "depart",
+    "meaning": "出发；离职",
+    "example": "The company will depart as needed.",
+    "day": 47
+  },
+  {
+    "id": 138,
+    "word": "designate",
+    "meaning": "指定",
+    "example": "The company will designate as needed.",
+    "day": 48
+  },
+  {
+    "id": 139,
+    "word": "discontinue",
+    "meaning": "停止",
+    "example": "The company will discontinue as needed.",
+    "day": 49
+  },
+  {
+    "id": 140,
+    "word": "diverse",
+    "meaning": "多样的",
+    "example": "The company will diverse as needed.",
+    "day": 50
+  },
+  {
+    "id": 141,
+    "word": "domestic",
+    "meaning": "国内的",
+    "example": "The company will domestic as needed.",
+    "day": 51
+  },
+  {
+    "id": 142,
+    "word": "durable",
+    "meaning": "耐用的",
+    "example": "The company will durable as needed.",
+    "day": 52
+  },
+  {
+    "id": 143,
+    "word": "encounter",
+    "meaning": "遇到",
+    "example": "The company will encounter as needed.",
+    "day": 53
+  },
+  {
+    "id": 144,
+    "word": "enclose",
+    "meaning": "附上",
+    "example": "The company will enclose as needed.",
+    "day": 54
+  },
+  {
+    "id": 145,
+    "word": "enroll",
+    "meaning": "报名",
+    "example": "The company will enroll as needed.",
+    "day": 55
+  },
+  {
+    "id": 146,
+    "word": "ensure",
+    "meaning": "确保",
+    "example": "The company will ensure as needed.",
+    "day": 56
+  },
+  {
+    "id": 147,
+    "word": "equivalent",
+    "meaning": "等同的",
+    "example": "The company will equivalent as needed.",
+    "day": 57
+  },
+  {
+    "id": 148,
+    "word": "exceed",
+    "meaning": "超过",
+    "example": "The company will exceed as needed.",
+    "day": 58
+  },
+  {
+    "id": 149,
+    "word": "exceptional",
+    "meaning": "出色的；例外的",
+    "example": "The company will exceptional as needed.",
+    "day": 59
+  },
+  {
+    "id": 150,
+    "word": "exempt",
+    "meaning": "免除",
+    "example": "The company will exempt as needed.",
+    "day": 60
+  },
+  {
+    "id": 151,
+    "word": "expire",
+    "meaning": "到期",
+    "example": "The company will expire as needed.",
+    "day": 61
+  },
+  {
+    "id": 152,
+    "word": "facilitate",
+    "meaning": "促进",
+    "example": "The company will facilitate as needed.",
+    "day": 62
+  },
+  {
+    "id": 153,
+    "word": "financial",
+    "meaning": "财务的",
+    "example": "The company will financial as needed.",
+    "day": 63
+  },
+  {
+    "id": 154,
+    "word": "fluctuate",
+    "meaning": "波动",
+    "example": "The company will fluctuate as needed.",
+    "day": 64
+  },
+  {
+    "id": 155,
+    "word": "formally",
+    "meaning": "正式地",
+    "example": "The company will formally as needed.",
+    "day": 65
+  },
+  {
+    "id": 156,
+    "word": "generate",
+    "meaning": "产生",
+    "example": "The company will generate as needed.",
+    "day": 66
+  },
+  {
+    "id": 157,
+    "word": "implement",
+    "meaning": "实施",
+    "example": "The company will implement as needed.",
+    "day": 67
+  },
+  {
+    "id": 158,
+    "word": "inquire",
+    "meaning": "询问",
+    "example": "The company will inquire as needed.",
+    "day": 68
+  },
+  {
+    "id": 159,
+    "word": "inspect",
+    "meaning": "检查",
+    "example": "The company will inspect as needed.",
+    "day": 69
+  },
+  {
+    "id": 160,
+    "word": "integrate",
+    "meaning": "整合",
+    "example": "The company will integrate as needed.",
+    "day": 70
+  },
+  {
+    "id": 161,
+    "word": "internal",
+    "meaning": "内部的",
+    "example": "The company will internal as needed.",
+    "day": 71
+  },
+  {
+    "id": 162,
+    "word": "launch",
+    "meaning": "推出",
+    "example": "The company will launch as needed.",
+    "day": 72
+  },
+  {
+    "id": 163,
+    "word": "mandatory",
+    "meaning": "强制的",
+    "example": "The company will mandatory as needed.",
+    "day": 73
+  },
+  {
+    "id": 164,
+    "word": "nevertheless",
+    "meaning": "然而",
+    "example": "The company will nevertheless as needed.",
+    "day": 74
+  },
+  {
+    "id": 165,
+    "word": "obtain",
+    "meaning": "获得",
+    "example": "The company will obtain as needed.",
+    "day": 75
+  },
+  {
+    "id": 166,
+    "word": "ongoing",
+    "meaning": "持续的",
+    "example": "The company will ongoing as needed.",
+    "day": 76
+  },
+  {
+    "id": 167,
+    "word": "outstanding",
+    "meaning": "杰出的；未支付的",
+    "example": "The company will outstanding as needed.",
+    "day": 77
+  },
+  {
+    "id": 168,
+    "word": "oversee",
+    "meaning": "监督",
+    "example": "The company will oversee as needed.",
+    "day": 78
+  },
+  {
+    "id": 169,
+    "word": "participate",
+    "meaning": "参加",
+    "example": "The company will participate as needed.",
+    "day": 79
+  },
+  {
+    "id": 170,
+    "word": "persuade",
+    "meaning": "说服",
+    "example": "The company will persuade as needed.",
+    "day": 80
+  },
+  {
+    "id": 171,
+    "word": "prioritize",
+    "meaning": "优先处理",
+    "example": "The company will prioritize as needed.",
+    "day": 81
+  },
+  {
+    "id": 172,
+    "word": "prohibit",
+    "meaning": "禁止",
+    "example": "The company will prohibit as needed.",
+    "day": 82
+  },
+  {
+    "id": 173,
+    "word": "prospective",
+    "meaning": "潜在的",
+    "example": "The company will prospective as needed.",
+    "day": 83
+  },
+  {
+    "id": 174,
+    "word": "purchase order",
+    "meaning": "采购订单",
+    "example": "The company will purchase order as needed.",
+    "day": 84
+  },
+  {
+    "id": 175,
+    "word": "quarterly",
+    "meaning": "每季度的",
+    "example": "The company will quarterly as needed.",
+    "day": 85
+  },
+  {
+    "id": 176,
+    "word": "retain",
+    "meaning": "保留",
+    "example": "The company will retain as needed.",
+    "day": 86
+  },
+  {
+    "id": 177,
+    "word": "revise",
+    "meaning": "修改",
+    "example": "The company will revise as needed.",
+    "day": 87
+  },
+  {
+    "id": 178,
+    "word": "reliable",
+    "meaning": "可靠的",
+    "example": "The company will reliable as needed.",
+    "day": 88
+  },
+  {
+    "id": 179,
+    "word": "relocate",
+    "meaning": "搬迁",
+    "example": "The company will relocate as needed.",
+    "day": 89
+  },
+  {
+    "id": 180,
+    "word": "resolve",
+    "meaning": "解决",
+    "example": "The company will resolve as needed.",
+    "day": 90
+  },
+  {
+    "id": 181,
+    "word": "sufficient",
+    "meaning": "足够的",
+    "example": "The company will sufficient as needed.",
+    "day": 1
+  },
+  {
+    "id": 182,
+    "word": "temporary",
+    "meaning": "临时的",
+    "example": "The company will temporary as needed.",
+    "day": 2
+  },
+  {
+    "id": 183,
+    "word": "thorough",
+    "meaning": "彻底的",
+    "example": "The company will thorough as needed.",
+    "day": 3
+  },
+  {
+    "id": 184,
+    "word": "valid",
+    "meaning": "有效的",
+    "example": "The company will valid as needed.",
+    "day": 4
+  },
+  {
+    "id": 185,
+    "word": "vendor",
+    "meaning": "供应商",
+    "example": "The company will vendor as needed.",
+    "day": 5
+  },
+  {
+    "id": 186,
+    "word": "withdraw",
+    "meaning": "撤回",
+    "example": "The company will withdraw as needed.",
+    "day": 6
+  },
+  {
+    "id": 187,
+    "word": "yield",
+    "meaning": "产生；收益",
+    "example": "The company will yield as needed.",
+    "day": 7
+  },
+  {
+    "id": 188,
+    "word": "assembly",
+    "meaning": "组装；集会",
+    "example": "The company will assembly as needed.",
+    "day": 8
+  },
+  {
+    "id": 189,
+    "word": "attendee",
+    "meaning": "与会者",
+    "example": "The company will attendee as needed.",
+    "day": 9
+  },
+  {
+    "id": 190,
+    "word": "authorization",
+    "meaning": "授权",
+    "example": "The company will authorization as needed.",
+    "day": 10
+  },
+  {
+    "id": 191,
+    "word": "breakdown",
+    "meaning": "故障；细分",
+    "example": "The company will breakdown as needed.",
+    "day": 11
+  },
+  {
+    "id": 192,
+    "word": "commencement",
+    "meaning": "开始",
+    "example": "The company will commencement as needed.",
+    "day": 12
+  },
+  {
+    "id": 193,
+    "word": "competitor",
+    "meaning": "竞争者",
+    "example": "The company will competitor as needed.",
+    "day": 13
+  },
+  {
+    "id": 194,
+    "word": "consensus",
+    "meaning": "共识",
+    "example": "The company will consensus as needed.",
+    "day": 14
+  },
+  {
+    "id": 195,
+    "word": "consultant",
+    "meaning": "顾问",
+    "example": "The company will consultant as needed.",
+    "day": 15
+  },
+  {
+    "id": 196,
+    "word": "correspondence",
+    "meaning": "通信；信件",
+    "example": "The company will correspondence as needed.",
+    "day": 16
+  },
+  {
+    "id": 197,
+    "word": "dedication",
+    "meaning": "奉献",
+    "example": "The company will dedication as needed.",
+    "day": 17
+  },
+  {
+    "id": 198,
+    "word": "disruption",
+    "meaning": "中断",
+    "example": "The company will disruption as needed.",
+    "day": 18
+  },
+  {
+    "id": 199,
+    "word": "enrollment",
+    "meaning": "报名人数",
+    "example": "The company will enrollment as needed.",
+    "day": 19
+  },
+  {
+    "id": 200,
+    "word": "evaluation",
+    "meaning": "评估",
+    "example": "The company will evaluation as needed.",
+    "day": 20
+  },
+  {
+    "id": 201,
+    "word": "expenditure",
+    "meaning": "支出",
+    "example": "The company will expenditure as needed.",
+    "day": 21
+  },
+  {
+    "id": 202,
+    "word": "incentive",
+    "meaning": "激励措施",
+    "example": "The company will incentive as needed.",
+    "day": 22
+  },
+  {
+    "id": 203,
+    "word": "inquiry",
+    "meaning": "询问",
+    "example": "The company will inquiry as needed.",
+    "day": 23
+  },
+  {
+    "id": 204,
+    "word": "maintenance",
+    "meaning": "维护",
+    "example": "The company will maintenance as needed.",
+    "day": 24
+  },
+  {
+    "id": 205,
+    "word": "outcome",
+    "meaning": "结果",
+    "example": "The company will outcome as needed.",
+    "day": 25
+  },
+  {
+    "id": 206,
+    "word": "personnel",
+    "meaning": "人员",
+    "example": "The company will personnel as needed.",
+    "day": 26
+  },
+  {
+    "id": 207,
+    "word": "productivity",
+    "meaning": "生产率",
+    "example": "The company will productivity as needed.",
+    "day": 27
+  },
+  {
+    "id": 208,
+    "word": "provision",
+    "meaning": "规定；供应",
+    "example": "The company will provision as needed.",
+    "day": 28
+  },
+  {
+    "id": 209,
+    "word": "reimbursement",
+    "meaning": "报销",
+    "example": "The company will reimbursement as needed.",
+    "day": 29
+  },
+  {
+    "id": 210,
+    "word": "requirement",
+    "meaning": "要求",
+    "example": "The company will requirement as needed.",
+    "day": 30
+  },
+  {
+    "id": 211,
+    "word": "retirement",
+    "meaning": "退休",
+    "example": "The company will retirement as needed.",
+    "day": 31
+  },
+  {
+    "id": 212,
+    "word": "shortage",
+    "meaning": "短缺",
+    "example": "The company will shortage as needed.",
+    "day": 32
+  },
+  {
+    "id": 213,
+    "word": "specialize",
+    "meaning": "专门从事",
+    "example": "The company will specialize as needed.",
+    "day": 33
+  },
+  {
+    "id": 214,
+    "word": "specification",
+    "meaning": "规格",
+    "example": "The company will specification as needed.",
+    "day": 34
+  },
+  {
+    "id": 215,
+    "word": "supervisor",
+    "meaning": "主管",
+    "example": "The company will supervisor as needed.",
+    "day": 35
+  },
+  {
+    "id": 216,
+    "word": "transaction",
+    "meaning": "交易",
+    "example": "The company will transaction as needed.",
+    "day": 36
+  },
+  {
+    "id": 217,
+    "word": "transmit",
+    "meaning": "传送",
+    "example": "The company will transmit as needed.",
+    "day": 37
+  },
+  {
+    "id": 218,
+    "word": "unavailable",
+    "meaning": "无法获得的",
+    "example": "The company will unavailable as needed.",
+    "day": 38
+  },
+  {
+    "id": 219,
+    "word": "upcoming",
+    "meaning": "即将到来的",
+    "example": "The company will upcoming as needed.",
+    "day": 39
+  },
+  {
+    "id": 220,
+    "word": "workload",
+    "meaning": "工作量",
+    "example": "The company will workload as needed.",
+    "day": 40
+  },
+  {
+    "id": 221,
+    "word": "workshop",
+    "meaning": "研讨会",
+    "example": "The company will workshop as needed.",
+    "day": 41
+  },
+  {
+    "id": 222,
+    "word": "abandon",
+    "meaning": "放弃",
+    "example": "The company will abandon when necessary.",
+    "day": 42
+  },
+  {
+    "id": 223,
+    "word": "abolish",
+    "meaning": "废除",
+    "example": "The company will abolish when necessary.",
+    "day": 43
+  },
+  {
+    "id": 224,
+    "word": "abundant",
+    "meaning": "丰富的",
+    "example": "The company will abundant when necessary.",
+    "day": 44
+  },
+  {
+    "id": 225,
+    "word": "accessible",
+    "meaning": "可进入的；可获得的",
+    "example": "The company will accessible when necessary.",
+    "day": 45
+  },
+  {
+    "id": 226,
+    "word": "accomplish",
+    "meaning": "完成",
+    "example": "The company will accomplish when necessary.",
+    "day": 46
+  },
+  {
+    "id": 227,
+    "word": "accounting",
+    "meaning": "会计",
+    "example": "The company will accounting when necessary.",
+    "day": 47
+  },
+  {
+    "id": 228,
+    "word": "accumulate",
+    "meaning": "积累",
+    "example": "The company will accumulate when necessary.",
+    "day": 48
+  },
+  {
+    "id": 229,
+    "word": "adapt",
+    "meaning": "适应",
+    "example": "The company will adapt when necessary.",
+    "day": 49
+  },
+  {
+    "id": 230,
+    "word": "adequate",
+    "meaning": "充分的",
+    "example": "The company will adequate when necessary.",
+    "day": 50
+  },
+  {
+    "id": 231,
+    "word": "administrative",
+    "meaning": "行政的",
+    "example": "The company will administrative when necessary.",
+    "day": 51
+  },
+  {
+    "id": 232,
+    "word": "adverse",
+    "meaning": "不利的",
+    "example": "The company will adverse when necessary.",
+    "day": 52
+  },
+  {
+    "id": 233,
+    "word": "affordable",
+    "meaning": "负担得起的",
+    "example": "The company will affordable when necessary.",
+    "day": 53
+  },
+  {
+    "id": 234,
+    "word": "agricultural",
+    "meaning": "农业的",
+    "example": "The company will agricultural when necessary.",
+    "day": 54
+  },
+  {
+    "id": 235,
+    "word": "amend",
+    "meaning": "修订",
+    "example": "The company will amend when necessary.",
+    "day": 55
+  },
+  {
+    "id": 236,
+    "word": "appreciation",
+    "meaning": "欣赏；感谢",
+    "example": "The company will appreciation when necessary.",
+    "day": 56
+  },
+  {
+    "id": 237,
+    "word": "arise",
+    "meaning": "出现",
+    "example": "The company will arise when necessary.",
+    "day": 57
+  },
+  {
+    "id": 238,
+    "word": "aspect",
+    "meaning": "方面",
+    "example": "The company will aspect when necessary.",
+    "day": 58
+  },
+  {
+    "id": 239,
+    "word": "assess",
+    "meaning": "评估",
+    "example": "The company will assess when necessary.",
+    "day": 59
+  },
+  {
+    "id": 240,
+    "word": "assistance",
+    "meaning": "帮助",
+    "example": "The company will assistance when necessary.",
+    "day": 60
+  },
+  {
+    "id": 241,
+    "word": "assume",
+    "meaning": "假定；承担",
+    "example": "The company will assume when necessary.",
+    "day": 61
+  },
+  {
+    "id": 242,
+    "word": "assure",
+    "meaning": "保证",
+    "example": "The company will assure when necessary.",
+    "day": 62
+  },
+  {
+    "id": 243,
+    "word": "attain",
+    "meaning": "达到",
+    "example": "The company will attain when necessary.",
+    "day": 63
+  },
+  {
+    "id": 244,
+    "word": "attract",
+    "meaning": "吸引",
+    "example": "The company will attract when necessary.",
+    "day": 64
+  },
+  {
+    "id": 245,
+    "word": "audit",
+    "meaning": "审计",
+    "example": "The company will audit when necessary.",
+    "day": 65
+  },
+  {
+    "id": 246,
+    "word": "awareness",
+    "meaning": "意识",
+    "example": "The company will awareness when necessary.",
+    "day": 66
+  },
+  {
+    "id": 247,
+    "word": "background",
+    "meaning": "背景",
+    "example": "The company will background when necessary.",
+    "day": 67
+  },
+  {
+    "id": 248,
+    "word": "balance",
+    "meaning": "余额；平衡",
+    "example": "The company will balance when necessary.",
+    "day": 68
+  },
+  {
+    "id": 249,
+    "word": "banquet",
+    "meaning": "宴会",
+    "example": "The company will banquet when necessary.",
+    "day": 69
+  },
+  {
+    "id": 250,
+    "word": "barrier",
+    "meaning": "障碍",
+    "example": "The company will barrier when necessary.",
+    "day": 70
+  },
+  {
+    "id": 251,
+    "word": "bargain",
+    "meaning": "便宜货；讨价还价",
+    "example": "The company will bargain when necessary.",
+    "day": 71
+  },
+  {
+    "id": 252,
+    "word": "belongings",
+    "meaning": "物品",
+    "example": "The company will belongings when necessary.",
+    "day": 72
+  },
+  {
+    "id": 253,
+    "word": "boost",
+    "meaning": "促进；提升",
+    "example": "The company will boost when necessary.",
+    "day": 73
+  },
+  {
+    "id": 254,
+    "word": "broaden",
+    "meaning": "扩大",
+    "example": "The company will broaden when necessary.",
+    "day": 74
+  },
+  {
+    "id": 255,
+    "word": "capable",
+    "meaning": "有能力的",
+    "example": "The company will capable when necessary.",
+    "day": 75
+  },
+  {
+    "id": 256,
+    "word": "ceiling",
+    "meaning": "天花板；上限",
+    "example": "The company will ceiling when necessary.",
+    "day": 76
+  },
+  {
+    "id": 257,
+    "word": "circulate",
+    "meaning": "流通",
+    "example": "The company will circulate when necessary.",
+    "day": 77
+  },
+  {
+    "id": 258,
+    "word": "clarify",
+    "meaning": "澄清",
+    "example": "The company will clarify when necessary.",
+    "day": 78
+  },
+  {
+    "id": 259,
+    "word": "coincide",
+    "meaning": "同时发生",
+    "example": "The company will coincide when necessary.",
+    "day": 79
+  },
+  {
+    "id": 260,
+    "word": "commit",
+    "meaning": "承诺；投入",
+    "example": "The company will commit when necessary.",
+    "day": 80
+  },
+  {
+    "id": 261,
+    "word": "commodity",
+    "meaning": "商品",
+    "example": "The company will commodity when necessary.",
+    "day": 81
+  },
+  {
+    "id": 262,
+    "word": "comparable",
+    "meaning": "可比较的",
+    "example": "The company will comparable when necessary.",
+    "day": 82
+  },
+  {
+    "id": 263,
+    "word": "competence",
+    "meaning": "能力",
+    "example": "The company will competence when necessary.",
+    "day": 83
+  },
+  {
+    "id": 264,
+    "word": "confidential",
+    "meaning": "机密的",
+    "example": "The company will confidential when necessary.",
+    "day": 84
+  },
+  {
+    "id": 265,
+    "word": "conform",
+    "meaning": "遵守",
+    "example": "The company will conform when necessary.",
+    "day": 85
+  },
+  {
+    "id": 266,
+    "word": "conserve",
+    "meaning": "节约",
+    "example": "The company will conserve when necessary.",
+    "day": 86
+  },
+  {
+    "id": 267,
+    "word": "considerably",
+    "meaning": "相当地",
+    "example": "The company will considerably when necessary.",
+    "day": 87
+  },
+  {
+    "id": 268,
+    "word": "consistent",
+    "meaning": "一致的",
+    "example": "The company will consistent when necessary.",
+    "day": 88
+  },
+  {
+    "id": 269,
+    "word": "consolidate",
+    "meaning": "合并",
+    "example": "The company will consolidate when necessary.",
+    "day": 89
+  },
+  {
+    "id": 270,
+    "word": "constitute",
+    "meaning": "构成",
+    "example": "The company will constitute when necessary.",
+    "day": 90
+  },
+  {
+    "id": 271,
+    "word": "consult",
+    "meaning": "咨询",
+    "example": "The company will consult when necessary.",
+    "day": 1
+  },
+  {
+    "id": 272,
+    "word": "consumer",
+    "meaning": "消费者",
+    "example": "The company will consumer when necessary.",
+    "day": 2
+  },
+  {
+    "id": 273,
+    "word": "contemporary",
+    "meaning": "当代的",
+    "example": "The company will contemporary when necessary.",
+    "day": 3
+  },
+  {
+    "id": 274,
+    "word": "controversial",
+    "meaning": "有争议的",
+    "example": "The company will controversial when necessary.",
+    "day": 4
+  },
+  {
+    "id": 275,
+    "word": "convert",
+    "meaning": "转换",
+    "example": "The company will convert when necessary.",
+    "day": 5
+  },
+  {
+    "id": 276,
+    "word": "cooperate",
+    "meaning": "合作",
+    "example": "The company will cooperate when necessary.",
+    "day": 6
+  },
+  {
+    "id": 277,
+    "word": "criterion",
+    "meaning": "标准",
+    "example": "The company will criterion when necessary.",
+    "day": 7
+  },
+  {
+    "id": 278,
+    "word": "crucial",
+    "meaning": "关键的",
+    "example": "The company will crucial when necessary.",
+    "day": 8
+  },
+  {
+    "id": 279,
+    "word": "currency",
+    "meaning": "货币",
+    "example": "The company will currency when necessary.",
+    "day": 9
+  },
+  {
+    "id": 280,
+    "word": "decline",
+    "meaning": "下降；拒绝",
+    "example": "The company will decline when necessary.",
+    "day": 10
+  },
+  {
+    "id": 281,
+    "word": "defective",
+    "meaning": "有缺陷的",
+    "example": "The company will defective when necessary.",
+    "day": 11
+  },
+  {
+    "id": 282,
+    "word": "demonstration",
+    "meaning": "示范；游行",
+    "example": "The company will demonstration when necessary.",
+    "day": 12
+  },
+  {
+    "id": 283,
+    "word": "deposit",
+    "meaning": "押金；存款",
+    "example": "The company will deposit when necessary.",
+    "day": 13
+  },
+  {
+    "id": 284,
+    "word": "desirable",
+    "meaning": "理想的",
+    "example": "The company will desirable when necessary.",
+    "day": 14
+  },
+  {
+    "id": 285,
+    "word": "determine",
+    "meaning": "决定",
+    "example": "The company will determine when necessary.",
+    "day": 15
+  },
+  {
+    "id": 286,
+    "word": "devote",
+    "meaning": "投入",
+    "example": "The company will devote when necessary.",
+    "day": 16
+  },
+  {
+    "id": 287,
+    "word": "diminish",
+    "meaning": "减少",
+    "example": "The company will diminish when necessary.",
+    "day": 17
+  },
+  {
+    "id": 288,
+    "word": "disclose",
+    "meaning": "披露",
+    "example": "The company will disclose when necessary.",
+    "day": 18
+  },
+  {
+    "id": 289,
+    "word": "dispute",
+    "meaning": "争议",
+    "example": "The company will dispute when necessary.",
+    "day": 19
+  },
+  {
+    "id": 290,
+    "word": "dominate",
+    "meaning": "主导",
+    "example": "The company will dominate when necessary.",
+    "day": 20
+  },
+  {
+    "id": 291,
+    "word": "donation",
+    "meaning": "捐赠",
+    "example": "The company will donation when necessary.",
+    "day": 21
+  },
+  {
+    "id": 292,
+    "word": "draft",
+    "meaning": "草案；起草",
+    "example": "The company will draft when necessary.",
+    "day": 22
+  },
+  {
+    "id": 293,
+    "word": "eliminate",
+    "meaning": "消除",
+    "example": "The company will eliminate when necessary.",
+    "day": 23
+  },
+  {
+    "id": 294,
+    "word": "emphasize",
+    "meaning": "强调",
+    "example": "The company will emphasize when necessary.",
+    "day": 24
+  },
+  {
+    "id": 295,
+    "word": "encourage",
+    "meaning": "鼓励",
+    "example": "The company will encourage when necessary.",
+    "day": 25
+  },
+  {
+    "id": 296,
+    "word": "enterprise",
+    "meaning": "企业",
+    "example": "The company will enterprise when necessary.",
+    "day": 26
+  },
+  {
+    "id": 297,
+    "word": "equity",
+    "meaning": "股权；公平",
+    "example": "The company will equity when necessary.",
+    "day": 27
+  },
+  {
+    "id": 298,
+    "word": "essential",
+    "meaning": "必要的",
+    "example": "The company will essential when necessary.",
+    "day": 28
+  },
+  {
+    "id": 299,
+    "word": "establish",
+    "meaning": "建立",
+    "example": "The company will establish when necessary.",
+    "day": 29
+  },
+  {
+    "id": 300,
+    "word": "evaluate",
+    "meaning": "评估",
+    "example": "The company will evaluate when necessary.",
+    "day": 30
+  },
+  {
+    "id": 301,
+    "word": "exclusive",
+    "meaning": "独家的",
+    "example": "The company will exclusive when necessary.",
+    "day": 31
+  },
+  {
+    "id": 302,
+    "word": "expertise",
+    "meaning": "专业知识",
+    "example": "The company will expertise when necessary.",
+    "day": 32
+  },
+  {
+    "id": 303,
+    "word": "exposure",
+    "meaning": "接触；曝光",
+    "example": "The company will exposure when necessary.",
+    "day": 33
+  },
+  {
+    "id": 304,
+    "word": "external",
+    "meaning": "外部的",
+    "example": "The company will external when necessary.",
+    "day": 34
+  },
+  {
+    "id": 305,
+    "word": "fabric",
+    "meaning": "织物",
+    "example": "The company will fabric when necessary.",
+    "day": 35
+  },
+  {
+    "id": 306,
+    "word": "feasible",
+    "meaning": "可行的",
+    "example": "The company will feasible when necessary.",
+    "day": 36
+  },
+  {
+    "id": 307,
+    "word": "flaw",
+    "meaning": "缺陷",
+    "example": "The company will flaw when necessary.",
+    "day": 37
+  },
+  {
+    "id": 308,
+    "word": "foster",
+    "meaning": "促进",
+    "example": "The company will foster when necessary.",
+    "day": 38
+  },
+  {
+    "id": 309,
+    "word": "fulfill",
+    "meaning": "履行；满足",
+    "example": "The company will fulfill when necessary.",
+    "day": 39
+  },
+  {
+    "id": 310,
+    "word": "fundamental",
+    "meaning": "基本的",
+    "example": "The company will fundamental when necessary.",
+    "day": 40
+  },
+  {
+    "id": 311,
+    "word": "grant",
+    "meaning": "授予；补助金",
+    "example": "The company will grant when necessary.",
+    "day": 41
+  },
+  {
+    "id": 312,
+    "word": "guideline",
+    "meaning": "指导方针",
+    "example": "The company will guideline when necessary.",
+    "day": 42
+  },
+  {
+    "id": 313,
+    "word": "hence",
+    "meaning": "因此",
+    "example": "The company will hence when necessary.",
+    "day": 43
+  },
+  {
+    "id": 314,
+    "word": "identify",
+    "meaning": "识别",
+    "example": "The company will identify when necessary.",
+    "day": 44
+  },
+  {
+    "id": 315,
+    "word": "impose",
+    "meaning": "施加",
+    "example": "The company will impose when necessary.",
+    "day": 45
+  },
+  {
+    "id": 316,
+    "word": "incur",
+    "meaning": "产生费用",
+    "example": "The company will incur when necessary.",
+    "day": 46
+  },
+  {
+    "id": 317,
+    "word": "indicate",
+    "meaning": "表明",
+    "example": "The company will indicate when necessary.",
+    "day": 47
+  },
+  {
+    "id": 318,
+    "word": "indispensable",
+    "meaning": "不可或缺的",
+    "example": "The company will indispensable when necessary.",
+    "day": 48
+  },
+  {
+    "id": 319,
+    "word": "infrastructure",
+    "meaning": "基础设施",
+    "example": "The company will infrastructure when necessary.",
+    "day": 49
+  },
+  {
+    "id": 320,
+    "word": "initiative",
+    "meaning": "倡议",
+    "example": "The company will initiative when necessary.",
+    "day": 50
+  },
+  {
+    "id": 321,
+    "word": "innovative",
+    "meaning": "创新的",
+    "example": "The company will innovative when necessary.",
+    "day": 51
+  },
+  {
+    "id": 322,
+    "word": "insert",
+    "meaning": "插入",
+    "example": "The company will insert when necessary.",
+    "day": 52
+  },
+  {
+    "id": 323,
+    "word": "insufficient",
+    "meaning": "不足的",
+    "example": "The company will insufficient when necessary.",
+    "day": 53
+  },
+  {
+    "id": 324,
+    "word": "intensive",
+    "meaning": "密集的",
+    "example": "The company will intensive when necessary.",
+    "day": 54
+  },
+  {
+    "id": 325,
+    "word": "interfere",
+    "meaning": "干扰",
+    "example": "The company will interfere when necessary.",
+    "day": 55
+  },
+  {
+    "id": 326,
+    "word": "justify",
+    "meaning": "证明合理",
+    "example": "The company will justify when necessary.",
+    "day": 56
+  },
+  {
+    "id": 327,
+    "word": "legislation",
+    "meaning": "立法",
+    "example": "The company will legislation when necessary.",
+    "day": 57
+  },
+  {
+    "id": 328,
+    "word": "liable",
+    "meaning": "有责任的",
+    "example": "The company will liable when necessary.",
+    "day": 58
+  },
+  {
+    "id": 329,
+    "word": "likewise",
+    "meaning": "同样地",
+    "example": "The company will likewise when necessary.",
+    "day": 59
+  },
+  {
+    "id": 330,
+    "word": "logical",
+    "meaning": "合逻辑的",
+    "example": "The company will logical when necessary.",
+    "day": 60
+  },
+  {
+    "id": 331,
+    "word": "lucrative",
+    "meaning": "有利可图的",
+    "example": "The company will lucrative when necessary.",
+    "day": 61
+  },
+  {
+    "id": 332,
+    "word": "modify",
+    "meaning": "修改",
+    "example": "The company will modify when necessary.",
+    "day": 62
+  },
+  {
+    "id": 333,
+    "word": "monitor",
+    "meaning": "监控",
+    "example": "The company will monitor when necessary.",
+    "day": 63
+  },
+  {
+    "id": 334,
+    "word": "mutual",
+    "meaning": "相互的",
+    "example": "The company will mutual when necessary.",
+    "day": 64
+  },
+  {
+    "id": 335,
+    "word": "obligation",
+    "meaning": "义务",
+    "example": "The company will obligation when necessary.",
+    "day": 65
+  },
+  {
+    "id": 336,
+    "word": "occupy",
+    "meaning": "占用",
+    "example": "The company will occupy when necessary.",
+    "day": 66
+  },
+  {
+    "id": 337,
+    "word": "optimize",
+    "meaning": "优化",
+    "example": "The company will optimize when necessary.",
+    "day": 67
+  },
+  {
+    "id": 338,
+    "word": "outsource",
+    "meaning": "外包",
+    "example": "The company will outsource when necessary.",
+    "day": 68
+  },
+  {
+    "id": 339,
+    "word": "overall",
+    "meaning": "总体的",
+    "example": "The company will overall when necessary.",
+    "day": 69
+  },
+  {
+    "id": 340,
+    "word": "pending",
+    "meaning": "待定的",
+    "example": "The company will pending when necessary.",
+    "day": 70
+  },
+  {
+    "id": 341,
+    "word": "permanent",
+    "meaning": "永久的",
+    "example": "The company will permanent when necessary.",
+    "day": 71
+  },
+  {
+    "id": 342,
+    "word": "permit",
+    "meaning": "允许；许可证",
+    "example": "The company will permit when necessary.",
+    "day": 72
+  },
+  {
+    "id": 343,
+    "word": "plausible",
+    "meaning": "貌似合理的",
+    "example": "The company will plausible when necessary.",
+    "day": 73
+  },
+  {
+    "id": 344,
+    "word": "precisely",
+    "meaning": "准确地",
+    "example": "The company will precisely when necessary.",
+    "day": 74
+  },
+  {
+    "id": 345,
+    "word": "preliminary",
+    "meaning": "初步的",
+    "example": "The company will preliminary when necessary.",
+    "day": 75
+  },
+  {
+    "id": 346,
+    "word": "preserve",
+    "meaning": "保存",
+    "example": "The company will preserve when necessary.",
+    "day": 76
+  },
+  {
+    "id": 347,
+    "word": "proceed",
+    "meaning": "继续进行",
+    "example": "The company will proceed when necessary.",
+    "day": 77
+  },
+  {
+    "id": 348,
+    "word": "prominent",
+    "meaning": "突出的",
+    "example": "The company will prominent when necessary.",
+    "day": 78
+  },
+  {
+    "id": 349,
+    "word": "promptly",
+    "meaning": "迅速地",
+    "example": "The company will promptly when necessary.",
+    "day": 79
+  },
+  {
+    "id": 350,
+    "word": "prosper",
+    "meaning": "繁荣",
+    "example": "The company will prosper when necessary.",
+    "day": 80
+  },
+  {
+    "id": 351,
+    "word": "qualify",
+    "meaning": "符合资格",
+    "example": "The company will qualify when necessary.",
+    "day": 81
+  },
+  {
+    "id": 352,
+    "word": "rational",
+    "meaning": "合理的",
+    "example": "The company will rational when necessary.",
+    "day": 82
+  },
+  {
+    "id": 353,
+    "word": "reassure",
+    "meaning": "使安心",
+    "example": "The company will reassure when necessary.",
+    "day": 83
+  },
+  {
+    "id": 354,
+    "word": "recover",
+    "meaning": "恢复",
+    "example": "The company will recover when necessary.",
+    "day": 84
+  },
+  {
+    "id": 355,
+    "word": "refine",
+    "meaning": "改进",
+    "example": "The company will refine when necessary.",
+    "day": 85
+  },
+  {
+    "id": 356,
+    "word": "regardless",
+    "meaning": "不管",
+    "example": "The company will regardless when necessary.",
+    "day": 86
+  },
+  {
+    "id": 357,
+    "word": "regulate",
+    "meaning": "规范",
+    "example": "The company will regulate when necessary.",
+    "day": 87
+  },
+  {
+    "id": 358,
+    "word": "reinforce",
+    "meaning": "加强",
+    "example": "The company will reinforce when necessary.",
+    "day": 88
+  },
+  {
+    "id": 359,
+    "word": "reluctant",
+    "meaning": "不情愿的",
+    "example": "The company will reluctant when necessary.",
+    "day": 89
+  },
+  {
+    "id": 360,
+    "word": "remarkable",
+    "meaning": "显著的",
+    "example": "The company will remarkable when necessary.",
+    "day": 90
+  },
+  {
+    "id": 361,
+    "word": "representative",
+    "meaning": "代表",
+    "example": "The company will representative when necessary.",
+    "day": 1
+  },
+  {
+    "id": 362,
+    "word": "reschedule",
+    "meaning": "重新安排",
+    "example": "The company will reschedule when necessary.",
+    "day": 2
+  },
+  {
+    "id": 363,
+    "word": "residential",
+    "meaning": "住宅的",
+    "example": "The company will residential when necessary.",
+    "day": 3
+  },
+  {
+    "id": 364,
+    "word": "restore",
+    "meaning": "恢复",
+    "example": "The company will restore when necessary.",
+    "day": 4
+  },
+  {
+    "id": 365,
+    "word": "restrict",
+    "meaning": "限制",
+    "example": "The company will restrict when necessary.",
+    "day": 5
+  },
+  {
+    "id": 366,
+    "word": "resume",
+    "meaning": "恢复；继续",
+    "example": "The company will resume when necessary.",
+    "day": 6
+  },
+  {
+    "id": 367,
+    "word": "retrieve",
+    "meaning": "取回",
+    "example": "The company will retrieve when necessary.",
+    "day": 7
+  },
+  {
+    "id": 368,
+    "word": "scarce",
+    "meaning": "稀缺的",
+    "example": "The company will scarce when necessary.",
+    "day": 8
+  },
+  {
+    "id": 369,
+    "word": "secure",
+    "meaning": "获得；安全的",
+    "example": "The company will secure when necessary.",
+    "day": 9
+  },
+  {
+    "id": 370,
+    "word": "seek",
+    "meaning": "寻求",
+    "example": "The company will seek when necessary.",
+    "day": 10
+  },
+  {
+    "id": 371,
+    "word": "simultaneously",
+    "meaning": "同时地",
+    "example": "The company will simultaneously when necessary.",
+    "day": 11
+  },
+  {
+    "id": 372,
+    "word": "solely",
+    "meaning": "仅仅",
+    "example": "The company will solely when necessary.",
+    "day": 12
+  },
+  {
+    "id": 373,
+    "word": "stable",
+    "meaning": "稳定的",
+    "example": "The company will stable when necessary.",
+    "day": 13
+  },
+  {
+    "id": 374,
+    "word": "submit",
+    "meaning": "提交",
+    "example": "The company will submit when necessary.",
+    "day": 14
+  },
+  {
+    "id": 375,
+    "word": "subsequent",
+    "meaning": "随后的",
+    "example": "The company will subsequent when necessary.",
+    "day": 15
+  },
+  {
+    "id": 376,
+    "word": "substantial",
+    "meaning": "大量的；实质的",
+    "example": "The company will substantial when necessary.",
+    "day": 16
+  },
+  {
+    "id": 377,
+    "word": "supervise",
+    "meaning": "监督",
+    "example": "The company will supervise when necessary.",
+    "day": 17
+  },
+  {
+    "id": 378,
+    "word": "supplement",
+    "meaning": "补充",
+    "example": "The company will supplement when necessary.",
+    "day": 18
+  },
+  {
+    "id": 379,
+    "word": "sustain",
+    "meaning": "维持",
+    "example": "The company will sustain when necessary.",
+    "day": 19
+  },
+  {
+    "id": 380,
+    "word": "tailor",
+    "meaning": "量身定制",
+    "example": "The company will tailor when necessary.",
+    "day": 20
+  },
+  {
+    "id": 381,
+    "word": "terminate",
+    "meaning": "终止",
+    "example": "The company will terminate when necessary.",
+    "day": 21
+  },
+  {
+    "id": 382,
+    "word": "transform",
+    "meaning": "转变",
+    "example": "The company will transform when necessary.",
+    "day": 22
+  },
+  {
+    "id": 383,
+    "word": "transparent",
+    "meaning": "透明的",
+    "example": "The company will transparent when necessary.",
+    "day": 23
+  },
+  {
+    "id": 384,
+    "word": "undergo",
+    "meaning": "经历",
+    "example": "The company will undergo when necessary.",
+    "day": 24
+  },
+  {
+    "id": 385,
+    "word": "unique",
+    "meaning": "独特的",
+    "example": "The company will unique when necessary.",
+    "day": 25
+  },
+  {
+    "id": 386,
+    "word": "utilize",
+    "meaning": "利用",
+    "example": "The company will utilize when necessary.",
+    "day": 26
+  },
+  {
+    "id": 387,
+    "word": "validity",
+    "meaning": "有效性",
+    "example": "The company will validity when necessary.",
+    "day": 27
+  },
+  {
+    "id": 388,
+    "word": "whereas",
+    "meaning": "然而；而",
+    "example": "The company will whereas when necessary.",
+    "day": 28
+  },
+  {
+    "id": 389,
+    "word": "withdrawal",
+    "meaning": "撤回",
+    "example": "The company will withdrawal when necessary.",
+    "day": 29
+  },
+  {
+    "id": 390,
+    "word": "withstand",
+    "meaning": "承受",
+    "example": "The company will withstand when necessary.",
+    "day": 30
+  },
+  {
+    "id": 391,
+    "word": "workforce",
+    "meaning": "劳动力",
+    "example": "The company will workforce when necessary.",
+    "day": 31
+  }
+]
